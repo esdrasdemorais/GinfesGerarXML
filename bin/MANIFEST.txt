@@ -1,0 +1,3 @@
+Main-Class: Main.ServicoEnviarLoteRpsEnvio
+Name: Main/ServicoEnviarLoteRpsEnvio.class
+Java-Bean: True
